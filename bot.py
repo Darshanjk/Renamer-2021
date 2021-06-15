@@ -188,7 +188,7 @@ async def VidWatermarkAdder(bot, cmd):
 			file_name=dl_loc,
 			progress=progress_for_pyrogram,
 			progress_args=(
-				"Downloading Sir ...",
+				"Downloading please😌 Wait...",
 				editable,
 				logs_msg,
 				c_time
